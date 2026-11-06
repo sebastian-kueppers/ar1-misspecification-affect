@@ -1,6 +1,6 @@
 # Beyond Linear Dynamics: AR(1) Misspecification and Complexity in Daily Life Affect Data
 
-Analysis code for Kueppers, S., Holtmann, J., Koslowski, K., Lange, J., Kalokerinos, E. K., & Koval, P. (2026). _Beyond Linear Dynamics: AR(1) Misspecification and Complexity in Daily Life Affect Data_.
+Analysis code for Kueppers, S., Holtmann, J., Kostakos, V., Lange, J., Kalokerinos, E. K., & Koval, P. (2026). _Beyond Linear Dynamics: AR(1) Misspecification and Complexity in Daily Life Affect DataAffect as a Complex System: How Often Do AR(1) Models Fail to Capture Daily Affect Dynamics?_.
 
 - Preregistration: [https://doi.org/10.17605/OSF.IO/3CWXH](https://doi.org/10.17605/OSF.IO/3CWXH)
 - Archived version of this repository: 
@@ -50,7 +50,7 @@ All scripts assume that the **working directory is the repository root**.
 
 ## Software
 
-Analyses were run in R 4.6.0 (R Core Team, 2026). Required packages:
+Analyses were run in R 4.6.0 (R Core Team, 2026). 
 
 ComplexUpset, data.table, dHSIC, dplyr, ecp, energy, furrr, future, future.apply, ggplot2, ggtext, glmmTMB, lubridate, mgcv, ordinal, parallelly, progressr, psych, purrr, readxl, rEDM, rlang, tidyr, tidyverse, tseries, tseriesEntropy, writexl
 
